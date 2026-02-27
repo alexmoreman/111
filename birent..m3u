@@ -813,10 +813,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://vestinn.ru/upload/resize_cache/iblock/9a8/xxgfqte7asrekzu6wk8r2zyv2j5mc7su/145_50_0/33.png" tvg-id="nn-24" group-title="Региoнальные", Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vestinn.ru/upload/resize_cache/iblock/b49/145_50_0/russia_24.jpg" tvg-id="no_epg_news" group-title="Региoнальные", Россия 24 НН
+#EXTINF:-1 tvg-logo="https://vestinn.ru/upload/resize_cache/iblock/b49/145_50_0/russia_24.jpg" tvg-id="vesti_24" group-title="Региoнальные", Россия 24 НН
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vestinn.ru/upload/resize_cache/iblock/c66/145_50_0/c66d18c8264624d9fb728946678e000b.jpg" tvg-id="no_epg_news" group-title="Региoнальные", Россия 1 НН
+#EXTINF:-1 tvg-logo="https://vestinn.ru/upload/resize_cache/iblock/c66/145_50_0/c66d18c8264624d9fb728946678e000b.jpg" tvg-id="vesti_1" group-title="Региoнальные", Россия 1 НН
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" tvg-id="no_epg_news" group-title="Региoнальные", 1 Республиканский
